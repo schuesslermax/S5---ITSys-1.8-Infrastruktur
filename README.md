@@ -1,7 +1,7 @@
 # **Infrastruktur**
 
 **WP1 - Projektplanung und Anforderungsanalyse** <br/>
-*Ziel: Festlegen, was unser Projekt beinhalten soll und welche Anforderungen es gibt._ <br/>
+*Ziel: Festlegen, was unser Projekt beinhalten soll und welche Anforderungen es gibt.* <br/>
 Tasks: 
 - Anforderungen an das Infrastrukturregister sammeln 
 - Funktionen des Straßenregisters definieren 
