@@ -1,6 +1,6 @@
 # **Infrastruktur**
 
-**WP1 - Projektplanung und Anforderungsanalyse** <br/>
+### **WP1 - Projektplanung und Anforderungsanalyse** <br/>
 *Ziel: Festlegen, was unser Projekt beinhalten soll und welche Anforderungen es gibt.* <br/>
 Tasks: 
 - Anforderungen an das Infrastrukturregister sammeln 
@@ -12,7 +12,7 @@ Tasks:
 *Deliverable: Anforderungsdokument und Projektplan*
 
 
-**WP2 – Entwicklung des Straßenregisters** <br/>
+### **WP2 – Entwicklung des Straßenregisters** <br/>
 *Ziel: Erstellung eines Registers zur Verwaltung der Straßeninfrastruktur.* <br/>
 Tasks: 
 - Datenmodell für Straßen entwickeln 
@@ -24,7 +24,7 @@ Tasks:
 *Deliverable: Funktionsfähiges Straßenregister*
 
 
-**WP3 – Entwicklung des Mautsystems** <br/>
+### **WP3 – Entwicklung des Mautsystems** <br/>
 *Ziel: Entwicklung eines Systems zur Berechnung von Mautgebühren.* <br/>
 Tasks: 
 - Regeln zur Mautberechnung definieren 
@@ -36,7 +36,7 @@ Tasks:
 *Deliverable: Funktionsfähiges Mautsystem*
 
 
-**WP4 – Integration und Qualitätssicherung**
+### **WP4 – Integration und Qualitätssicherung**
 *Ziel: Überprüfen, ob alles funktioniert und die Zusammenarbeit mit den anderen Registern funktioniert.* <br/>
 Tasks: 
 - Schnittstellen zu anderen Registern integrieren 
