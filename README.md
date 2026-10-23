@@ -8,6 +8,7 @@ Tasks:
 - Anforderungen an das Mautsystem definieren 
 - Schnittstellen zu anderen Teams identifizieren 
 -Technische Umsetzung abstimmen <br/>
+
 *Deliverable: Anforderungsdokument und Projektplan*
 
 **WP2 – Entwicklung des Straßenregisters** <br/>
@@ -18,6 +19,7 @@ Tasks:
 - Funktion zur Erstellung neuer Straßen implementieren 
 - Funktion zur Anzeige und Verwaltung bestehender Straßen implementieren 
 - Straßenregister testen <br/>
+
 *Deliverable: Funktionsfähiges Straßenregister*
 
 **WP3 – Entwicklung des Mautsystems** <br/>
@@ -28,6 +30,7 @@ Tasks:
 - Funktion zur Berechnung der Maut implementieren 
 - Schnittstelle zum Bankenregister abstimmen 
 - Mautsystem testen <br/>
+
 *Deliverable: Funktionsfähiges Mautsystem*
 
 **WP4 – Integration und Qualitätssicherung**
@@ -38,4 +41,5 @@ Tasks:
 - Fehler identifizieren und beheben 
 - Projektdokumentation erstellen 
 - Ergebnisse auf GitHub veröffentlichen <br/>
+
 *Deliverable: Getestetes und dokumentiertes Infrastrukturregister* 
