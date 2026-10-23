@@ -7,7 +7,7 @@ Tasks:
 - Funktionen des Straßenregisters definieren 
 - Anforderungen an das Mautsystem definieren 
 - Schnittstellen zu anderen Teams identifizieren 
--Technische Umsetzung abstimmen <br/>
+-Technische Umsetzung abstimmen 
 
 *Deliverable: Anforderungsdokument und Projektplan*
 
@@ -18,7 +18,7 @@ Tasks:
 - Benötigte Attribute festlegen (z. B. Straßen-ID, Name, Länge, Zustand) 
 - Funktion zur Erstellung neuer Straßen implementieren 
 - Funktion zur Anzeige und Verwaltung bestehender Straßen implementieren 
-- Straßenregister testen <br/>
+- Straßenregister testen 
 
 *Deliverable: Funktionsfähiges Straßenregister*
 
@@ -29,7 +29,7 @@ Tasks:
 - Festlegen, welche Straßen mautpflichtig sind 
 - Funktion zur Berechnung der Maut implementieren 
 - Schnittstelle zum Bankenregister abstimmen 
-- Mautsystem testen <br/>
+- Mautsystem testen 
 
 *Deliverable: Funktionsfähiges Mautsystem*
 
@@ -40,6 +40,6 @@ Tasks:
 - Gemeinsame Funktionstests durchführen 
 - Fehler identifizieren und beheben 
 - Projektdokumentation erstellen 
-- Ergebnisse auf GitHub veröffentlichen <br/>
+- Ergebnisse auf GitHub veröffentlichen 
 
 *Deliverable: Getestetes und dokumentiertes Infrastrukturregister* 
