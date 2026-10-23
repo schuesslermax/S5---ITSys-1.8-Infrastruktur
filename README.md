@@ -10,7 +10,7 @@ Tasks:
 -Technische Umsetzung abstimmen 
 
 *Deliverable: Anforderungsdokument und Projektplan*
-
+<br/>
 **WP2 – Entwicklung des Straßenregisters** <br/>
 *Ziel: Erstellung eines Registers zur Verwaltung der Straßeninfrastruktur.* <br/>
 Tasks: 
@@ -21,7 +21,7 @@ Tasks:
 - Straßenregister testen 
 
 *Deliverable: Funktionsfähiges Straßenregister*
-
+<br/>
 **WP3 – Entwicklung des Mautsystems** <br/>
 *Ziel: Entwicklung eines Systems zur Berechnung von Mautgebühren.* <br/>
 Tasks: 
@@ -32,7 +32,7 @@ Tasks:
 - Mautsystem testen 
 
 *Deliverable: Funktionsfähiges Mautsystem*
-
+<br/>
 **WP4 – Integration und Qualitätssicherung**
 *Ziel: Überprüfen, ob alles funktioniert und die Zusammenarbeit mit den anderen Registern funktioniert.* <br/>
 Tasks: 
